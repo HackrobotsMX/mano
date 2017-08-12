@@ -14,22 +14,22 @@ de voltaje, para controlar la mano articulada.
 
 ##### Material:
 
-● Bolígrafo
-● Lápiz
-● Sacapuntas
-● Laptop
-● 2 hojas de papel
-● Papel aluminio
-● Pegamento
-● 1m de cable conductor calibre 22
-● Cinta de aislar
-● Tijeras
-● Regla
-● Cinta adhesiva de 5 cm de ancho
-● Resistencias de 4.7 k Ohms (kilo ohms)
-● Protoboard
-● Placa Arduino
-● IDE de Arduino
+* Bolígrafo
+* Lápiz
+* Sacapuntas
+* Laptop
+* 2 hojas de papel
+* Papel aluminio
+* Pegamento
+* 1m de cable conductor calibre 22
+* Cinta de aislar
+* Tijeras
+* Regla
+* Cinta adhesiva de 5 cm de ancho
+* Resistencias de 4.7 k Ohms (kilo ohms)
+* Protoboard
+* Placa Arduino
+* IDE de Arduino
 
 A continuación se explica lo que se realizó en la primera sesión.
 
