@@ -47,7 +47,7 @@ A continuación se explica lo que se realizó en la primera sesión.
 10. Dobla la tira de papel por la mitad, procurando que quede completamente simétrica.
 11. Corta una tira de cinta adhesiva del mismo tamaño que la tira de papel.
 12. Coloca la tira de papel sobre la cinta adhesiva y recortar el excedente.
-13. Para comprobar la variación de señal en el sensor, conecta los circuitos como se muestra en el [diagrama 1] (https://github.com/HackrobotsMX/mano/blob/master/Diagrama%201.jpg).
+13. Para comprobar la variación de señal en el sensor, conecta los circuitos como se muestra en el [diagrama 1](https://github.com/HackrobotsMX/mano/blob/master/Diagrama%201.jpg)
 14. Se procede a abrir el IDE de Arduino.
 15. Conecta el Arduino a tu computadora.
 
