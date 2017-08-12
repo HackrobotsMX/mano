@@ -56,7 +56,8 @@ A continuación se explica lo que se realizó en la primera sesión.
 ###### Nota 2: Si tu Arduino es genérico, revisa la siguiente liga: http://www.geekfactory.mx/sin-categoria/driver-ch340-para-arduinochinos-o-genericos/
 
 16. Selecciona la pestaña de “Archivo” o “File”.
-17. Da click en “Ejemplos”--> click en “01.Basicos”-->click en “AnalogReadSerial”. Si tienes la version en ingles “Ejemplos-->01.Basics-->AnalogReadSerial”
+17. Da click en “Ejemplos”--> click en “01.Basicos”-->click en “AnalogReadSerial”.
+Si tienes la version en ingles “Examples-->01.Basics-->AnalogReadSerial”
 18. Selecciona “Compilar” o “Verify” (icono con una palomita) para comprobar que no haya errores.
 19. Carga el programa a la placa Arduino.
 20. Ve a la pestaña de “Herramientas” o “Tools” y da click en “Monitor Serial”.
